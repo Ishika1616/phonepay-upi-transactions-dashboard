@@ -32,8 +32,8 @@ visualized in an interactive Power BI dashboard.
 
 ## Files
 - `dashboard/phonepay_transactions.pbix` — Power BI dashboard file
-- `data/upi_transactions_anonymized(1).csv` — cleaned transaction dataset
-- `Screenshot 2026-07-16 235508.png` — dashboard preview image
+- `data/upi_transactions_categorized.csv` — cleaned transaction dataset
+- `dashboard_preview.png` — dashboard preview image
 
 ## Dashboard Preview
-![Dashboard Preview](Screenshot 2026-07-16 235508.png)
+![Dashboard Preview](dashboard_preview.png)
